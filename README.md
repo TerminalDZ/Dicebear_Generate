@@ -1,7 +1,7 @@
 ## Dicebear Generate
 
  - [DiceBear Documentation](https://www.dicebear.com/introduction)
- - [The programmer of this file is idriss boukmouche](https://idriss.boukmouche.rf.gd/)
+ - [The programmer of this file is idriss boukmouche](https://iba.rf.gd/)
 
  
  
